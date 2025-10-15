@@ -1,0 +1,1 @@
+C:\Users\admin\Desktop\streak-system\target\wasm32-unknown-unknown\debug\streak_frontend.wasm: C:\Users\admin\Desktop\streak-system\frontend\src\lib.rs C:\Users\admin\Desktop\streak-system\frontend\src\main.rs

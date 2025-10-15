@@ -1,0 +1,11 @@
+[package]
+name = "streak_contract"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+# Use a published soroban-sdk version available on crates.io; update as needed
+soroban-sdk = "23.0.3"
