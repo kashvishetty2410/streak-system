@@ -107,16 +107,4 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🎯 Personal Story
 
-As a developer passionate about blockchain and habit formation, I created Streakinator3000 to solve a common problem: maintaining long-term habits. By combining the immutability of blockchain with engaging gamification elements, we're making habit-tracking both fun and reliable.
-
-The journey from concept to implementation has been exciting, leveraging Stellar's Soroban smart contracts for their speed and efficiency while maintaining security. Join us in revolutionizing how people build and maintain habits!
-
-## 🔗 Links
-
-- [Live Demo](https://streakinator3000.example.com)
-- [Documentation](https://docs.streakinator3000.example.com)
-- [Issue Tracker](https://github.com/yourusername/streakinator3000/issues)
-
-Note: Some integrations (actual Soroban RPC calls and Stellar transfers) are stubbed or simplified because those require network keys and detailed SDK usage.
